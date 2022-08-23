@@ -1,0 +1,55 @@
+.red{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+
+}
+
+.purple{
+	float: left;
+	width: 33%;
+    min-height: 100px;
+	background-color: purple;
+}
+
+.lime{
+	float: left;
+	width: 33%;
+	min-height: 100px;
+	background-color: limegreen;
+}
+
+.orange{
+	float: left;
+	width: 33%;
+	min-height: 100px;
+	background-color: orange;
+}
+
+
+.space{
+    float: left;
+	width: 30%;
+	min-height: 100px;
+
+}
+.star{
+	
+	background-color: firebrick;
+}
+.moon{
+	
+	background-color: deeppink;
+
+}
+.sun{
+	
+	background-color: seagreen;
+}
+.sky{
+	min-height: 100px;
+	background-color: skyblue;
+}
